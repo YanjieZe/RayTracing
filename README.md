@@ -12,6 +12,9 @@ The code I upload can be complied by g++.
 You can use this order in the command line to complie the main file.
 ```
 g++ main.cpp -std=c++11 -o main
-
+```
+Then you can use this order in the command line to transfer the exe into ppm file, and scan the picture by a ppm viewer.
+```
+.\main.exe > .\picturename.ppm
 ```
 
