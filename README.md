@@ -1,5 +1,6 @@
 # RayTracing
 ## implementation of &lt;ray tracing in one weekend>
+#### 2020.8.8  by Yanjie Ze
 
 ### 1.Motivation
 Learn something about ray tracer and computer graphics.
