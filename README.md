@@ -9,11 +9,9 @@ source:https://github.com/RayTracing/raytracing.github.io
 Follow the guidance of the writer and get a shallow knowledge of the pipeline of writing a ray tracer.</br>
 The code I upload can be complied by g++.
 ### 4.instruction
-
-'''
-
+You can use this order in the command line to complie the main file.
+```
 g++ main.cpp -std=c++11 -o main
 
-
-'''
+```
 
