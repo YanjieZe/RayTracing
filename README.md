@@ -1,5 +1,5 @@
 # RayTracing
-## implementation of &lt;ray tracing in one weekend
+## implementation of &lt;ray tracing in one weekend>
 
 ### 1.Motivation
 Learn something about ray tracer and computer graphics.
